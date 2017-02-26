@@ -1,0 +1,3 @@
+[0226/110936.164:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Setmy\Reports\Dump: The system cannot find the path specified. (0x3)
+[0226/110936.168:ERROR:registration_protocol_win.cc(84)] TransactNamedPipe: The pipe has been ended. (0x6D)
+[0226/110936.168:ERROR:crash_report_database_win.cc(563)] CreateDirectory C:\Program Files (x86)\Setmy\Reports\Dump: The system cannot find the path specified. (0x3)
